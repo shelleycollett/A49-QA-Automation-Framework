@@ -1,9 +1,9 @@
-<h1>A49 Class Automation Framework Repository</h1><br>
+<h1>Test Pro A49 Class Automation Framework Repository</h1><br>
 
-Welcome to the A49 Class Automation Framework repository! <br>
+Welcome to the Test Pro A49 Class Automation Framework repository! <br>
 
 <h2>Overview</h2>
-This repository contains the A49 Class Automation Framework, which serves as an educational tool for students' homework and live class demonstrations.
+This repository contains the Test Pro  A49 Class Automation Framework, which serves as an educational tool for students' homework and live class demonstrations.
 
 <h2>Getting Started</h2>
 If you're a student enrolled in the A49 class, follow these steps to get started with the A49 Class Automation Framework:<br><br>
