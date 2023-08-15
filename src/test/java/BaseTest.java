@@ -8,5 +8,4 @@ public class BaseTest {
     static void setupClass() {
         WebDriverManager.chromedriver().setup();
     }
-    //shelley test3
 }
